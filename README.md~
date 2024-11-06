@@ -49,7 +49,7 @@ composer require sontus/contactform
 
 ## Changelog
 
-- [v1.0.0](https://github.com/your-username/your-package/commit/your-commit-hash) - Initial release
+- [v1.0.0](https://github.com/sontus/contactform/releases/tag/v1.0.0) - Initial release
 
 
 ---

@@ -31,26 +31,19 @@ composer require sontus/contactform
 
 ## Usage
 
-
-
 ---
 
 ## Configuration
 
-
-
 ---
 
 ## Testing
-
-
 
 ---
 
 ## Changelog
 
 - [v1.0.0](https://github.com/sontus/contactform/releases/tag/v1.0.0) - Initial release
-
 
 ---
 
@@ -61,7 +54,6 @@ composer require sontus/contactform
 - [Security Vulnerabilities](https://github.com/sontus/contactform/blob/main/SECURITY.md)
 
 ---
-
 ## License
 
 [MIT](https://github.com/sontus/contactform/blob/main/LICENSE)
