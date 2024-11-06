@@ -2,7 +2,7 @@
 
 [![Latest Version](https://img.shields.io/github/release/sontus/contactform.svg?style=flat-square)](https://packagist.org/packages/sontus/contactform)
 [![Total Downloads](https://img.shields.io/packagist/dt/sontus/contactform.svg?style=flat-square)](https://packagist.org/packages/your-username/your-package)
-[![License](https://img.shields.io/github/license/your-username/your-package.svg?style=flat-square)](https://github.com/sontus/contactform/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/sontus/contactform.svg?style=flat-square)](https://github.com/sontus/contactform/blob/main/LICENSE)
 
 Simple Contact Form Package for Any Laravel Website.Build with TailwindCSS.
 
